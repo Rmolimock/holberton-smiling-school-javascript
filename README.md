@@ -1,1 +1,2 @@
-javascript/bootstrap project
+# PLEASE DO NOT QA REVIEW YET :(
+# I'M WORKING SO HARD TO CATCH UP
