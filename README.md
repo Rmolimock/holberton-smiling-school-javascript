@@ -1,4 +1,4 @@
-# Holberton Smiling School (Javascript)
+# Holberton Smiling School (Javascript) - in progress
 
 ## Learning Objectives
 
